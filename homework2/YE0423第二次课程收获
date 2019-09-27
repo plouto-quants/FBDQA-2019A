@@ -1,0 +1,11 @@
+#**Financial Big Data and Quantitative Analytics**
+
+##**Lecture 2: Basic Strategies and the Usage of Python**
+
+Learned the differences between ETFs and Stocks, got a deeper understanding of how to predict a financial instrument's price more accurately, and how to illustrate the term "risk";
+
+Learned two of the most important strategic evaluation indexes: Sharpe Ratio & Maximum Drawdown. When both strategies has the same Rate of Return over Drawdown, we normally choose the one with a higher return;
+
+Learned basic usage of python and some extend packages;
+
+Ran the basic python models of 3 strategies: single stock investment, single ETF investment, and multiple stocks portfolio investment.
