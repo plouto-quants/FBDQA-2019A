@@ -90,8 +90,8 @@ def pl_before_market_open(context):
 
 def pl_trade(context):
     if g.pl_bar_number % PL_TRADE_BAR_DURATION == 0:
-        pl_buy(context)   # 建仓
-        pl_sell(context)
+        pl_sell(context)   # 建仓
+        pl_buy(context)
     g.pl_bar_number = (g.pl_bar_number + 1 ) % PL_TRADE_BAR_DURATION
 
 ## 收盘后运行函数
