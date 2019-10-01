@@ -1,0 +1,13 @@
+#**Financial Big Data and Quantitative Analytics**
+
+##**Lecture 3: Basic Strategies, Trader Blazer and Posterior Alpha Decomposition**
+
+Learned the security selection factors like ROE_q, ROE_ttm; Learned how to design a stock pool;
+
+Learned the design of choosing signal, like "MA3 goes up and through MA200";
+
+Learned how to use trader blazer;
+
+As for the posterior alpha decomposition, learned that the return of alphaP is irrelevant to the volatility of the overall market; Learned the "Alpha Strategy" which does not seek an accurate judgement of the trend of overall market, but seek a absolute positive return no matter the stock is up or down;
+
+Got homework.
